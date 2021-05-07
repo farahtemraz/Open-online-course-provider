@@ -1,0 +1,82 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f0c38e;
+}
+
+
+body::-webkit-scrollbar {
+    width: 0.8rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #48426d;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #312c51;
+}
+
+::selection {
+    background: #F7F7F7;
+}
+
+.buttons {
+    margin: 5% auto;
+    text-align:center;
+}
+
+.align {
+    margin-top: 20%;
+    text-align:center;
+}
+.table {
+    margin: 3% auto;
+    text-align: center;
+}
+
+.feedbackTable {
+    margin: 3% auto;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.paddingb {
+    padding: 15px;
+    margin-bottom: 1rem;
+}
+
+.studentProfileContainer {
+    text-align: center;
+    margin: 5% auto;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+
+
+.studentViewCoursesContainer {
+    text-align: center;
+    margin: 5% auto;
+    font-size: 1.3rem;
+    font-weight: 600;
+    
+}
+
+.Calendar {
+    border: none;
+    color: white;
+    font-size: 1rem;
+    margin: auto auto;
+}
+
+.scc {
+    margin-top: 2%;
+}
+
+.hyperLink {
+    color: #000;
+}
+
+.skipmargin {
+    margin-top: 2%;
+}
